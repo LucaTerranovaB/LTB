@@ -1,5 +1,5 @@
-# LTB
- h1 align="center">Hi there 👋 welcome</h1>
+
+<h1 align="center">Hi there 👋 welcome</h1>
 <p align="center">
     <a href="https://www.linkedin.com/in/luca-terranova-bisutti-84b8891aa/" target="_blank">LinkedIn</a> - Gmail: 
     <a href="">lucaterranovabisutti@gmail.com</a> -
@@ -18,36 +18,12 @@
 </br><h1 align="center">Repositories</h1>
 
 <p align="center">
-  <a href="https://github.com/HeroPath/Backend">
+  <a href="https://github.com/LucaTerranovaB/Juncal-Gestor-PROYECT.git">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=HeroPath&repo=Backend&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
   </a>
-  <a href="https://github.com/LucaTerranovaB/help-chat">
+  <a href="https://github.com/LucaTerranovaB/T-Pot.git">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=help-chat&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-    <a href="https://github.com/LucaTerranovaB/blackjack-js">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=blackjack-js&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/LucaTerranovaB/umcredits">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=umcredits&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/LucaTerranovaB/machine-learning">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=machine-learning&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-<a href="https://github.com/LucaTerranovaB/infram">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=infram&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/LucaTerranovaB/computacion-2">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=computacion-2&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/LucaTerranovaB/programacion-1">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=programacion-1&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/LucaTerranovaB/programacion2">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=programacion2&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
-  <a href="https://github.com/LucaTerranovaB/software-engineering">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=LucaTerranovaB&repo=software-engineering&title_color=ffb000&icon_color=f9f9f9&text_color=ffffff&bg_color=000000" />
-  </a>
+
 
 
 </p>
